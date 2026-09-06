@@ -1,0 +1,369 @@
+{
+  "generated_at_utc": "2026-09-06T15:20:48.673277+00:00",
+  "source": "file:///home/ubuntu/isl-passive-review/evidence/raw/homepage-2026-09-06.html",
+  "sha256": "bf2100e2dd3b2556552d147355821bdbabc1c6ca6beeb68c538238081e6ffc69",
+  "request": {
+    "mode": "fixture",
+    "bytes": 93691
+  },
+  "counts": {
+    "html_bytes": 93691,
+    "images": 14,
+    "images_without_useful_alt": 9,
+    "anchors": 93,
+    "empty_or_root_links": 49,
+    "stylesheets": 9,
+    "scripts": 5,
+    "headings": 65
+  },
+  "image_alt_issues": [
+    "/static/images/new.gif",
+    "/static/img/vision.svg",
+    "/static/img/mission.svg",
+    "/static/img/goal.svg",
+    "/static/img/partners/POPOIK.png",
+    "/static/img/astronaut/kalpana_chawla.jpg",
+    "/static/img/astronaut/Kalpana_Chawla.jpg",
+    "/static/img/astronaut/sunitha.png",
+    "/static/img/astronaut/raja.png"
+  ],
+  "placeholder_link_samples": [
+    "",
+    "",
+    "",
+    "/",
+    "#",
+    "#",
+    "#",
+    "#",
+    "#",
+    "/",
+    "/",
+    "/",
+    "/",
+    "#",
+    "/",
+    "#",
+    "#",
+    "/",
+    "/",
+    "#",
+    "#",
+    "/",
+    "#",
+    "#",
+    "#",
+    "#",
+    "#",
+    "#",
+    "#",
+    "#",
+    "#",
+    "/",
+    "/",
+    "#",
+    "#",
+    "#",
+    "/",
+    "/",
+    "/",
+    "/",
+    "/",
+    "/",
+    "/",
+    "/",
+    "/",
+    "/",
+    "/",
+    "/",
+    "/"
+  ],
+  "stylesheet_urls": [
+    "file:///static/vendor/bootstrap/5.1.3/bootstrap.min.css",
+    "file:///home/ubuntu/isl-passive-review/css2?family=Bebas+Neue&family=Lato:wght@100;300;400;700;900&family=Poppins:wght@200;300;400;600;700;800&family=Syncopate:wght@400;700&display=swap",
+    "file:///static/vendor/icomoon/icomoon.min.css",
+    "file:///static/vendor/offcanvas-nav/hc-offcanvas-nav.css",
+    "file:///static/css/theme.css",
+    "file:///static/css/theme-colors.css",
+    "file:///static/css/theme-preview-color-styler.css",
+    "file:///static/vendor/slick/1.8.1/slick.css",
+    "file:///static/vendor/slick/1.8.1/slick-theme-skilltech.css"
+  ],
+  "script_urls": [
+    "file:///static/vendor/jquery/jquery.min.js",
+    "file:///home/ubuntu/isl-passive-review/gtag/js?id=G-0CK5T93V47",
+    "https://visitorshitcounter.com/js/badgess.js?v=1758193975"
+  ],
+  "heading_outline": [
+    {
+      "tag": "h3",
+      "text": "Connect with us"
+    },
+    {
+      "tag": "h1",
+      "text": "Lets explore the Universe with us"
+    },
+    {
+      "tag": "h3",
+      "text": "Empowering\n                                        Our Nation's Curiosity"
+    },
+    {
+      "tag": "h4",
+      "text": "A Gateway to the"
+    },
+    {
+      "tag": "h1",
+      "text": "Beyond of Atmosphere"
+    },
+    {
+      "tag": "h3",
+      "text": "Technology And Innovation"
+    },
+    {
+      "tag": "h1",
+      "text": "Empowering tomorrow's\u2006Space\n                                        Leaders"
+    },
+    {
+      "tag": "h2",
+      "text": "Innovative Space Science Center"
+    },
+    {
+      "tag": "h1",
+      "text": "About Us"
+    },
+    {
+      "tag": "h2",
+      "text": "Autonomus part of India Space Week"
+    },
+    {
+      "tag": "h3",
+      "text": "OUR VISION"
+    },
+    {
+      "tag": "h3",
+      "text": "OUR MISSION"
+    },
+    {
+      "tag": "h3",
+      "text": "OUR GOAL"
+    },
+    {
+      "tag": "h4",
+      "text": "SUPPORTING THE VISION OF"
+    },
+    {
+      "tag": "h1",
+      "text": "OUR LAB"
+    },
+    {
+      "tag": "h2",
+      "text": "Welcome to India Space Lab which is"
+    },
+    {
+      "tag": "h1",
+      "text": "WORKSHOP"
+    },
+    {
+      "tag": "h2",
+      "text": "SPACE SCIENCE AND TECHNOLOGY"
+    },
+    {
+      "tag": "h1",
+      "text": "SUMMER INTERNSHIP"
+    },
+    {
+      "tag": "h2",
+      "text": "Space Education and Employement"
+    },
+    {
+      "tag": "h2",
+      "text": "Lateral Entry"
+    },
+    {
+      "tag": "h4",
+      "text": "OUR CHIEF GUEST"
+    },
+    {
+      "tag": "h4",
+      "text": "Our Features"
+    },
+    {
+      "tag": "h5",
+      "text": "Interactive Exhibits"
+    },
+    {
+      "tag": "h5",
+      "text": "Hands-on Experiments"
+    },
+    {
+      "tag": "h5",
+      "text": "Educational Programs"
+    },
+    {
+      "tag": "h5",
+      "text": "Virtual Tours"
+    },
+    {
+      "tag": "h5",
+      "text": "STEAM Workshops"
+    },
+    {
+      "tag": "h5",
+      "text": "Student Projects"
+    },
+    {
+      "tag": "h2",
+      "text": "Portable Planetarium"
+    },
+    {
+      "tag": "h1",
+      "text": "PLANETARIUM SHOW"
+    },
+    {
+      "tag": "h2",
+      "text": "Enhance understanding of Space Science and Astronomy through the use of planetaium."
+    },
+    {
+      "tag": "h4",
+      "text": "SATELLIET"
+    },
+    {
+      "tag": "h2",
+      "text": "Designing Development Deployment"
+    },
+    {
+      "tag": "h1",
+      "text": "MISSION ACCOMPLISHed"
+    },
+    {
+      "tag": "h6",
+      "text": "PSLV-C58"
+    },
+    {
+      "tag": "h4",
+      "text": "XPoSat Mission"
+    },
+    {
+      "tag": "h6",
+      "text": "Gaganyaan TV"
+    },
+    {
+      "tag": "h4",
+      "text": "D1 Mission"
+    },
+    {
+      "tag": "h6",
+      "text": "PSLV-C57"
+    },
+    {
+      "tag": "h4",
+      "text": "Aditya L1"
+    },
+    {
+      "tag": "h6",
+      "text": "PSLV-C56"
+    },
+    {
+      "tag": "h4",
+      "text": "DS-SAR"
+    },
+    {
+      "tag": "h6",
+      "text": "LVM3-M4"
+    },
+    {
+      "tag": "h4",
+      "text": "Chandrayaan-3"
+    },
+    {
+      "tag": "h6",
+      "text": "LVM3-M3"
+    },
+    {
+      "tag": "h4",
+      "text": "OneWeb India-2 Mission"
+    },
+    {
+      "tag": "h6",
+      "text": "PSLV-C54"
+    },
+    {
+      "tag": "h4",
+      "text": "EOS-06 Mission"
+    },
+    {
+      "tag": "h6",
+      "text": "LVM3 M2"
+    },
+    {
+      "tag": "h4",
+      "text": "OneWeb India-1 MissionHome"
+    },
+    {
+      "tag": "h6",
+      "text": "PSLV-C53"
+    },
+    {
+      "tag": "h4",
+      "text": "DS-EO Mission"
+    },
+    {
+      "tag": "h6",
+      "text": "PSLV-C51"
+    },
+    {
+      "tag": "h4",
+      "text": "Amazonia-1"
+    },
+    {
+      "tag": "h4",
+      "text": "SPACE TRAVELLERS"
+    },
+    {
+      "tag": "h5",
+      "text": "Rakesh Sharma"
+    },
+    {
+      "tag": "h5",
+      "text": "Kalpana Chawla"
+    },
+    {
+      "tag": "h5",
+      "text": "Sunitha Williams"
+    },
+    {
+      "tag": "h5",
+      "text": "Raja Jon Vurputoor Chari"
+    },
+    {
+      "tag": "h5",
+      "text": "ADVANCEMENT IN SPACE EDUCATION"
+    },
+    {
+      "tag": "h3",
+      "text": "Future of Space Education in India"
+    },
+    {
+      "tag": "h5",
+      "text": "Head Office"
+    },
+    {
+      "tag": "h5",
+      "text": "India Space Lab Quick Links"
+    },
+    {
+      "tag": "h5",
+      "text": "INDIA SPACE LAB"
+    }
+  ],
+  "content_quality_flags": [
+    "Autonomus",
+    "Employement",
+    "Accredation"
+  ],
+  "limitations": [
+    "Counts reflect the captured HTML only.",
+    "No CSS layout or runtime animation performance is inferred from HTML counts.",
+    "No exploit, vulnerability, authentication, endpoint, concurrency, or load test was performed."
+  ]
+}
