@@ -1,3 +1,9 @@
 fixture=homepage-2026-09-06.html
 source=https://www.isl.ac.in/
 method=browser-saved public HTML
+captured_at=2026-09-06
+capture_scope=single public homepage GET/render capture; no crawl or intrusive testing
+sha256=bf2100e2dd3b2556552d147355821bdbabc1c6ca6beeb68c538238081e6ffc69
+bytes=93691
+runtime=Python 3.12.3
+review_status=passive review; findings are not security vulnerability claims

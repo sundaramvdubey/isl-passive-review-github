@@ -24,7 +24,14 @@ Intrusive penetration or load testing requires written authorization from the si
 | `docs/report.md` | Detailed narrative report with findings and remediation. |
 | `docs/authorized-test-plan.md` | Non-executed plan for future authorized testing. |
 | `todo.md` | Work checklist and scope guardrails. |
+| `docs/findings-index.md` | Severity/confidence index for the current findings. |
+| `evidence/raw/manifest.txt` | Capture metadata, scope, byte count, and SHA-256 provenance. |
+| `.github/workflows/quality.yml` | Automated deterministic audit and TypeScript checks. |
 | `client/` | Static interactive report webpage built from the findings. |
+
+### Quality and evidence index
+
+The [findings index](docs/findings-index.md) separates impact, confidence, evidence, and remediation. The [evidence manifest](evidence/raw/manifest.txt) records the captured source, scope, timestamp, byte count, and SHA-256 hash. Every push and pull request runs the deterministic passive-audit tests and the web-project type check through GitHub Actions.
 
 ## Reproduce the safe audit
 
